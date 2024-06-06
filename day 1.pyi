@@ -1,0 +1,5 @@
+print("hello world")
+print("my name is saroj singh dhami")
+print("sum of sny two number is ",2+5)
+print(2+5)
+print(2*4)
